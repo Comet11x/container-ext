@@ -1,0 +1,31 @@
+{
+  "name": "container-ext",
+  "version": "0.0.1",
+  "description": "Asynchronous container operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comet11x/container-ext.git"
+  },
+  "author": "comet11x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Comet11x/container-ext/issues"
+  },
+  "homepage": "https://github.com/Comet11x/container-ext#readme",
+  "keywords": [
+    "container-ext",
+    "async",
+    "container",
+    "array",
+    "object",
+    "extension",
+    "wrapper",
+    "operation",
+    "method",
+    "function"
+  ]
+}
